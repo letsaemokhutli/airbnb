@@ -1,0 +1,80 @@
+,price
+accommodates,0.437756240669439
+host_listings_count,0.1719299638970518
+guests_included,0.21180587009778812
+availability_30,0.13210012522267936
+availability_60,0.11257689752388925
+calculated_host_listings_count,0.16185513802867882
+bathrooms,0.24800320017342664
+bedrooms,0.3852274279942339
+beds,0.36977736658524624
+cleaning_fee,0.29932043278068327
+price,1.0
+is_location_exact_f,-0.06638782046637076
+is_location_exact_t,0.0663878204663706
+room_type_Entire home/apt,0.4357882009896195
+room_type_Private room,-0.4149558054151361
+room_type_Shared room,-0.0826777032436696
+bed_type_Airbed,-0.06822102353655538
+bed_type_Couch,-0.02650509071296395
+bed_type_Futon,-0.07182252119322409
+bed_type_Pull-out Sofa,-0.045537126310777144
+bed_type_Real Bed,0.11302686324556348
+calendar_updated_1 week ago,-0.015059317829701631
+calendar_updated_10 months ago,-0.0157483887215122
+calendar_updated_11 months ago,-0.007877510794371514
+calendar_updated_12 months ago,-0.0061651639286589436
+calendar_updated_13 months ago,-0.013744201036474479
+calendar_updated_14 months ago,0.011226876214403455
+calendar_updated_15 months ago,-0.012651410612354247
+calendar_updated_16 months ago,0.046163126233147216
+calendar_updated_17 months ago,0.030055039537281853
+calendar_updated_18 months ago,0.0005693743796821364
+calendar_updated_2 days ago,-0.031047023488828516
+calendar_updated_2 months ago,0.01082698111210389
+calendar_updated_2 weeks ago,-0.04258771921252371
+calendar_updated_20 months ago,0.0029366668012399465
+calendar_updated_22 months ago,-0.008326064255336345
+calendar_updated_23 months ago,0.0023735302484111354
+calendar_updated_25 months ago,0.00415365353066446
+calendar_updated_3 days ago,-0.03811773105228007
+calendar_updated_3 months ago,-0.030585315873740637
+calendar_updated_3 weeks ago,-0.014581083044212252
+calendar_updated_30 months ago,0.047987591027545386
+calendar_updated_4 days ago,0.05868541355932045
+calendar_updated_4 months ago,0.061256866933266284
+calendar_updated_4 weeks ago,-0.008130199447495639
+calendar_updated_5 days ago,-0.02260302253002173
+calendar_updated_5 months ago,0.032854693435604494
+calendar_updated_5 weeks ago,-0.0012011606648380858
+calendar_updated_6 days ago,-0.045750316264889956
+calendar_updated_6 months ago,0.015684782388103342
+calendar_updated_6 weeks ago,-0.0016831468373586385
+calendar_updated_7 months ago,-0.013040869720268517
+calendar_updated_7 weeks ago,0.02163812621206896
+calendar_updated_8 months ago,-0.0010123387027242783
+calendar_updated_9 months ago,-0.02535289087640515
+calendar_updated_a week ago,0.016152166445181377
+calendar_updated_never,-0.032835159474127115
+calendar_updated_today,0.06337391348401374
+calendar_updated_yesterday,-0.060311499088058704
+requires_license_f,
+instant_bookable_f,0.05735855739114416
+instant_bookable_t,-0.05735855739114403
+require_guest_profile_picture_f,0.014305127534533045
+require_guest_profile_picture_t,-0.014305127534532032
+require_guest_phone_verification_f,-0.13492878399379804
+require_guest_phone_verification_t,0.13492878399379776
+property_type_Apartment,0.08883048108408591
+property_type_Bed & Breakfast,-0.03231598993273059
+property_type_Boat,0.037085360606710464
+property_type_Camper/RV,-0.012831156677966953
+property_type_Condominium,0.028880030246518924
+property_type_Dorm,-0.01775027461422757
+property_type_Entire Floor,-0.01170142523093665
+property_type_Guesthouse,0.012960497441592963
+property_type_House,-0.12305114108299707
+property_type_Loft,0.00812084127166013
+property_type_Other,0.026070358063542333
+property_type_Townhouse,-0.020752913741652813
+property_type_Villa,0.00429960127732725
